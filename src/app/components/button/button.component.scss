@@ -1,0 +1,9 @@
+button {
+    letter-spacing: 2px;
+
+    &:hover, &:focus {
+        @apply text-gray-900;
+
+        background-color: #fff;
+    }
+}

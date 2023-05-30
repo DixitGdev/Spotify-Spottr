@@ -1,0 +1,34 @@
+.image-container {
+  margin: 1rem 0;
+  max-width: 300px;
+  width: 100%;
+}
+
+.playlist__stats {
+  @apply text-center;
+
+  .image-container {
+    @apply mx-auto;
+  }
+
+  @screen md {
+    @apply mr-4;
+    @apply my-4;
+    @apply overflow-auto;
+    @apply sticky;
+    @apply text-left;
+
+    align-self: flex-start;
+    max-height: calc(100vh - 6rem);
+    max-width: 150px;
+    top: 3.5rem;
+
+    .image-container {
+      @apply ml-0;
+    }
+  }
+
+  @screen lg {
+    max-width: 300px;
+  }
+}
