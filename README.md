@@ -40,4 +40,18 @@
 
 ## Screenshots
 
+![login](https://github.com/DixitGdev/Spotify-Spottr/assets/51261247/0627379c-1bac-453f-a247-6ef7503669b8)
+
+##
+![home](https://github.com/DixitGdev/Spotify-Spottr/assets/51261247/6bae5542-2801-4bb2-ae18-2e5671c2b316)
+
+##
+![genre](https://github.com/DixitGdev/Spotify-Spottr/assets/51261247/71c5d527-662f-4d0d-bfe6-bf01b03c7e60)
+
+## 
+![track](https://github.com/DixitGdev/Spotify-Spottr/assets/51261247/d3ea9184-533f-4535-a24c-2fdcf28d42cd)
+
+
+
+
 
