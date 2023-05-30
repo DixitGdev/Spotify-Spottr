@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/DixitGdev/spottr/master/src/assets/images/preview.png" ></p>
+<p align="center"><img src="https://github.com/DixitGdev/Spotify-Spottr/blob/main/src/assets/images/preview.png?raw=true" ></p>
 <h3 align="center">Your Spotify stats year-round.</h3>
 
 ## ✨ Features
