@@ -1,7 +1,7 @@
 <p align="center"><img src="https://github.com/DixitGdev/Spotify-Spottr/blob/main/src/assets/images/preview.png?raw=true" ></p>
 <h3 align="center">Your Spotify stats year-round.</h3>
 
-## ✨ Features
+## Features ⚒️🔥
 
 **Top Stats**
 
@@ -31,36 +31,13 @@
 - View artist's top tracks.
 - Discover similar artists.
 
-## :building_construction: Built With
+## Built With
 
-- :zap: [Angular](https://angular.io/) - a platform for building mobile and desktop web applications.
-- :art: [Tailwind](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML.
-- :musical_note: [Spotify API](https://developer.spotify.com/documentation/web-api/) - for fetching Spotify data.
-- :bar_chart: [Chart.js](https://www.chartjs.org/) - Simple, clean and engaging HTML5 based JavaScript charts.
+- [Angular](https://angular.io/) - a platform for building mobile and desktop web applications.
+- [Tailwind](https://tailwindcss.com/) - Rapidly build modern websites without ever leaving your HTML.
+- [Spotify API](https://developer.spotify.com/documentation/web-api/) - for fetching Spotify data.
+- [Chart.js](https://www.chartjs.org/) - Simple, clean and engaging HTML5 based JavaScript charts.
 
-## :framed_picture: How it works
+## Screenshots
 
-![Demo](https://raw.githubusercontent.com/Spiderpig86/spottr/master/images/demo.gif)
-
-*Demo*
-
-![Login](https://raw.githubusercontent.com/Spiderpig86/spottr/master/images/login.jpg)
-
-*Login page*
-
-![Home](https://raw.githubusercontent.com/Spiderpig86/spottr/master/images/home.jpg)
-
-*Home*
-
-![Top Genres](https://raw.githubusercontent.com/Spiderpig86/spottr/master/images/genre.jpg)
-
-*Top Genres*
-
-![Similar Playlist](https://raw.githubusercontent.com/Spiderpig86/spottr/master/images/playlist.jpg)
-
-*Similar Playlist*
-
-![Track Details](https://raw.githubusercontent.com/Spiderpig86/spottr/master/images/track.jpg)
-
-*Track Details*
 
